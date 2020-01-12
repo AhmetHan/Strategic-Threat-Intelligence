@@ -1,0 +1,16 @@
+Magecart is a consortium of malicious hacker groups who target online shopping cart systems, usually the Magento system, to steal customer payment card information. ... Almost all ecommerce sites that use shopping carts don't properly vet the code that is used with these third-party pieces — a recipe for a ready-made hack.
+
+
+Some infected domains:
+https://nerdydata.com/reports/atmzow/f9e3bf6e-a6e5-47d5-bbf0-876d9bb62ca5
+https://publicwww.com/websites/ATMZOW
+
+stealer ip adres:
+103.139.113.34
+89.32.251.136
+
+Referance:
+https://infosecarsenal.blogspot.com/2020/01/magecart-group-formjacking-attacks.html
+https://threatpost.com/magecart-ecommerce-card-skimming-bonanza/147765/
+https://blog.trendmicro.com/trendlabs-security-intelligence/fin6-compromised-e-commerce-platform-via-magecart-to-inject-credit-card-skimmers-into-thousands-of-online-shops/
+https://www.csoonline.com/article/3400381/what-is-magecart-how-this-hacker-group-steals-payment-card-data.html
